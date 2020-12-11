@@ -3,7 +3,13 @@
 ![ ](https://raw.githubusercontent.com/SatyamOzaR/SatyamOzaR/main/Satyam%20Oza%20R.gif)
 
 
-Skills: C / C++ / Python / ROSpy / XML / Moveit (Rviz) / Linux / Ionic / JS / HTML / App scripting / Embedded C / circuit Simulation and designing
+Skills: C / C++ / Python / 
+        Linux - Ubuntu / ROS / Moveit (Rviz) / Gazebo / XML
+        Ionic / JS / HTML /
+        App scripting / Embedded C / MATLAB / Verilog-HDL /
+        cicuit designing and simulation
+        
+        
 
 
 - 🔭 I’m currently working on | Robotics Simulation | Motion Planning Algorithms 

@@ -4,7 +4,7 @@
 
 
 Skills: C / C++ / Python / 
-        Linux - Ubuntu / ROS / Moveit (Rviz) / Gazebo / XML
+        Linux - Ubuntu / ROS / Moveit (Rviz) / Gazebo / XML /
         Ionic / JS / HTML /
         App scripting / Embedded C / MATLAB / Verilog-HDL /
         cicuit designing and simulation

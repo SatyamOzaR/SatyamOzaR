@@ -3,10 +3,11 @@
 ![ ](https://raw.githubusercontent.com/SatyamOzaR/SatyamOzaR/main/Satyam%20Oza%20R.gif)
 
 
-Skills: C / C++ / Python / 
-        Linux - Ubuntu / ROS / Moveit (Rviz) / Gazebo / XML /
-        Ionic / JS / HTML /
-        App scripting / Embedded C / MATLAB / Verilog-HDL /
+Skills: C / C++ / Python /                                                                                                                                                                       
+        Linux - Ubuntu / ROS / Moveit (Rviz) / Gazebo                                                                                                                                                                                                                                                                                                      
+        Ionic / JS / HTML /                                                                                                                                                                                     
+        App scripting / Embedded C / MATLAB / Verilog/
+        RaspberryPi / arduino / FPGA                                                                                                                                                    
         circuit designing and simulation
         
         

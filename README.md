@@ -5,10 +5,10 @@
 
 Skills: C / C++ / Python /                                                                                                                                                                       
         Linux - Ubuntu / ROS / Moveit (Rviz) / Gazebo                                                                                                                                                                                                                                                                                                      
-        Ionic / JS / HTML /                                                                                                                                                                                     
-        App scripting / Embedded C / MATLAB / Verilog/
+        Ionic-react / Ionic-flutter / JS / HTML /                                                                                                                                                                                     
+        Web-Apps / Embedded C / MATLAB / Verilog/
         RaspberryPi / arduino / FPGA                                                                                                                                                    
-        circuit designing and simulation
+        PCB designing / circuit simulation
         
         
 

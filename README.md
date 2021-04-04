@@ -1,6 +1,5 @@
 ### Hi there 👋,                                                                                                                                                                   
                                                                                                                                                                                    
-![](https://github.com/SatyamOzaR/SatyamOzaR/blob/main/Satyam%20Oza%20R.gif)
                                                                                                                                                                                                                                                                                                                                                                        
 Skills: C / C++ / Python /                                                                                                                                                                       
         Linux - Ubuntu / ROS / Moveit (Rviz) / Gazebo                                                                                                                                                                                                                                                                                                      

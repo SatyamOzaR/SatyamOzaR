@@ -3,8 +3,12 @@
                                                                                                                                                                                                                                                                                                                                                                        
 Skills: C / C++ / Python /                                                                                                                                                                       
         Linux - Ubuntu / ROS / Moveit (Rviz) / Gazebo                                                                                                                                                                                                                                                                                                      
-        Ionic-react / Ionic-flutter / JS / HTML /                                                                                                                                                                                     
+        Ionic-react / Ionic-flutter / JS / HTML / CSS / Flask / Django / SQLite / MongoDB / Java-Android-Studio /  
+                                                                                                                                                                                  
+        Data Science / AI / ML / DL / Image Processing / OpenCV / TensorFlow / Keras
+                                                                                                                                                                                  
         Web-Apps / Embedded C / MATLAB / Verilog /
+                                                                                                                                                                                   
         RaspberryPi / arduino / FPGA                                                                                                                                                    
         PCB designing / circuit simulation
         

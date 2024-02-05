@@ -40,6 +40,6 @@ I'm Satyam Oza, a versatile Full Stack Developer 🛠️ blending a strong found
 
 Let's connect! Reach out to me at [satyamozar@gmail.com](mailto:satyamozar@gmail.com), and explore the exciting possibilities in the world of Full Stack Development together! 🚀
 
-[GitHub](https://github.com/SatyamOzaR) | [LinkedIn](https://www.linkedin.com/in/satyam-oza-r-7b2835171/) | [Instagram]([https://www.instagram.com/satyamozar/](https://www.instagram.com/ig_satyam_2211?igsh=cDRpdWk4dGxtNnoz&utm_source=qr))
+[GitHub](https://github.com/SatyamOzaR) | [LinkedIn](https://www.linkedin.com/in/satyam-oza-r-7b2835171/) | [Instagram](https://www.instagram.com/ig_satyam_2211?igsh=cDRpdWk4dGxtNnoz&utm_source=qr)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SatyamOzaR&show_icons=true)  

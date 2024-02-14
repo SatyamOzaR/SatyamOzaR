@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Satyam Oza, a versatile Full Stack Developer 🛠️ blending a strong foundation in Electronics & Communication Engineering with a passion for web development. Graduating from MVJ College Of Engineering with a B.E. degree and a CGPA of 8.85/10, I bring a diverse set of skills and experiences.
+I'm Satyam Oza, a versatile Full Stack Developer 🛠️ 
 
 ## 🚀 Skills:
 

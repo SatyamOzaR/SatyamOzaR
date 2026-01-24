@@ -1,45 +1,76 @@
-# Hi there! 👋
+# 👋 Hi, I'm Satyam Oza
 
-I'm Satyam Oza, a versatile Full Stack Developer 🛠️ 
+🚀 **Senior Full Stack Engineer | Backend & AI Platform Specialist**  
+🧠 Building scalable systems, agentic AI platforms, and data-intensive products used in production.
 
-## 🚀 Skills:
+I specialize in **backend-heavy full-stack development**, **agentic AI workflows**, and **enterprise-scale data platforms**. I enjoy designing systems that are reliable, scalable, and actually move business metrics.
 
-### Programming Languages:
+---
 
-- **C++ | Java | Python | SQL**
+## 🏗️ What I Do Best
 
-### Web Development:
+- 🔹 Design **multi-tenant backend architectures** with OAuth 2.0, RBAC & feature toggles  
+- 🔹 Build **Agentic AI systems** using LangChain, LangGraph & MCP servers  
+- 🔹 Optimize **large-scale data pipelines** (100M+ records) on BigQuery & ClickHouse  
+- 🔹 Deliver **production-grade APIs & dashboards** with measurable impact  
+- 🔹 Own systems end-to-end — from architecture → deployment → monitoring  
 
-- **HTML | CSS | TypeScript | JS | Flask | Django**
-- **Next.js | React | Redux | Tailwind**
+---
 
-### Frameworks:
+## 🛠️ Tech Stack
 
-- **Spring | Hibernate**
+### 💻 Languages
+**Java | Python | TypeScript | SQL | C++**
 
-### Support Libraries:
+### 🧠 AI & Agentic Systems
+**LangChain | LangGraph | FastMCP | OpenAI | Claude | HuggingFace | RAG | Prompt Engineering**
 
-- **Formik | AgGrid | AmCharts**
+### 🔧 Backend
+**Spring Boot | FastAPI | Flask | REST APIs | Microservices | OAuth 2.0 | Multi-Tenant Systems**
 
-### Cloud & Storage:
+### 🎨 Frontend
+**Next.js | React | Redux | Tailwind CSS | Recharts | AgGrid | SSR**
 
-- **AWS EC2 | Firebase | MySQL**
+### 🗄️ Databases & Cloud
+**BigQuery | ClickHouse | PostgreSQL | MySQL | Firestore | Redis**  
+**GCP | AWS | Docker | Kubernetes**
 
-### Robotics and Embedded Systems:
+### ⚙️ DevOps & Tooling
+**Jenkins | GitHub Actions | CI/CD | GKE | Pub/Sub | Postman | Jira | Figma**
 
-- **Linux (Ubuntu) | ROS | Moveit (Rviz) | Gazebo | Phoenix**
-- **Raspberry Pi | Arduino | FPGA**
-  
-### Data Science and AI:
+---
 
-- **Data Science | AI | ML | DL | Image Processing | OpenCV | TensorFlow | Keras**
-  
-### PCB Designing and Circuit Simulation:
+## 🧩 Highlighted Work
 
-- **PCB Designing | Circuit Simulation**
+### 🧠 Agentic AI Platform
+- Built **production-grade MCP servers** enabling secure LLM ↔ BigQuery access  
+- Orchestrated **10K+ autonomous agent runs/month** using LangGraph  
+- Reduced data analysis workflows from **hours → minutes**
 
-Let's connect! Reach out to me at [satyamozar@gmail.com](mailto:satyamozar@gmail.com), and explore the exciting possibilities in the world of Full Stack Development together! 🚀
+### 📊 Marketing Mix Analytics Platform
+- Architected **50+ REST APIs** for spend optimization & scenario planning  
+- Optimized distributed queries across **ClickHouse + BigQuery**  
+- Served **100+ enterprise tenants** with 99.9% uptime
 
-[GitHub](https://github.com/SatyamOzaR) | [LinkedIn](https://www.linkedin.com/in/satyam-oza-r-7b2835171/) | [Instagram](https://www.instagram.com/ig_satyam_2211?igsh=cDRpdWk4dGxtNnoz&utm_source=qr)
+### 💼 Invoice Management SaaS
+- Processed **$2M+ annual transactions** with GST compliance  
+- Built zero-downtime CI/CD pipelines on AWS  
+- Improved page load times by **25%**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SatyamOzaR&show_icons=true)  
+---
+
+## 📈 GitHub Stats
+
+![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SatyamOzaR&show_icons=true&theme=tokyonight)
+
+---
+
+## 🤝 Let’s Connect
+
+📧 **Email:** [satyamozar@gmail.com](mailto:satyamozar@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/satyam-oza-r](https://www.linkedin.com/in/satyam-oza-r)  
+💻 **GitHub:** [github.com/SatyamOzaR](https://github.com/SatyamOzaR)
+
+---
+
+⭐ *Always interested in building high-impact systems, AI platforms, and scalable products.*

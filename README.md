@@ -7,9 +7,9 @@ Currently **SDE II (Full-Stack)** at **[RevSure.AI](https://www.revsure.ai/)**, 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/satyam-oza-r-7b2835171/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/satyamozar"><img src="https://img.shields.io/badge/X / Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://x.com/satyamozar"><img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="mailto:satyamozar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://ieeexplore.ieee.org/author/profile"><img src="https://img.shields.io/badge/IEEE Publications-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE"/></a>
+  <a href="https://ieeexplore.ieee.org/author/profile"><img src="https://img.shields.io/badge/IEEE_Publications-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE"/></a>
 </p>
 
 ---
@@ -45,10 +45,10 @@ I enjoy ambiguous problem spaces where architecture, data, AI, and business cons
 ### 🧠 AI & LLM Platforms
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge)
-![FastMCP](https://img.shields.io/badge/MCP / FastMCP-000000?style=for-the-badge)
+![FastMCP](https://img.shields.io/badge/MCP_+_FastMCP-000000?style=for-the-badge)
 ![Temporal](https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Anthropic Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FECC00?style=for-the-badge&logo=huggingface&logoColor=black)
 ![RAG](https://img.shields.io/badge/RAG-5A29E4?style=for-the-badge)
 
@@ -75,7 +75,7 @@ I enjoy ambiguous problem spaces where architecture, data, AI, and business cons
 
 ### ⚙️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes / GKE-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes_+_GKE-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
